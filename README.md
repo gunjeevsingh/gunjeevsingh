@@ -3,13 +3,12 @@
 
 <!--
 ### Hi there 👋
-**specter25/specter25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on MERN stack projects
+👯 I’m looking to collaborate on Full stack projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -34,14 +33,15 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=specter25.specter25)
 <br />
 
-Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DVELOPER , BLOCKCHAIN  and CRYPTO enthusiast  🚀 from India, currently, I'm a Community Team Leader 🙍🏽‍♂️ [@DECODE25](https://github.com/DECODE25) , and a member of [@developer-student-club-thapar](https://github.com/developer-student-club-thapar) . Beside's programming, I enjoy gyming , travelling and reading novels. Not at all sorry to say that i am a FITNESS FREAK.
+Hi, I'm Gunjeev Singh a Full stack developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy gaming, and am a cricket enthusiast. 
 
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on 
 - 🌱 I’m currently learning NodeJS, Python and exploring devops.
+- 🔭 I’m currently working on MERN stack projects
+- 👯 I’m looking to collaborate on Full stack projects
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : gunjeev.arneja@gmail.com
 
