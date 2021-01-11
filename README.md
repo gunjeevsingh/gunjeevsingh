@@ -1,32 +1,14 @@
-### Hi there 👋
 
 
-<!--
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MERN stack projects
-👯 I’m looking to collaborate on Full stack projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### Hey 👋🏽, I'm specter25 
+### Hey 👋🏽, I'm gunjeevsingh
 
 <br/>
-<a href="https://www.linkedin.com/in/agarwalujjwal012/">
-  <img align="left" alt="Ujjwal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/gunjeevsingh/">
+  <img align="left" alt="Gunjeev's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/ujjwal_agarwal13/">
-  <img align="left" alt="Ujjwal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/gunjeevsingh/">
+  <img align="left" alt="Gunjeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
