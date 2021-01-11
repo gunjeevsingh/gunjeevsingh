@@ -12,7 +12,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=specter25.specter25)
+![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh)
 <br />
 
 Hi, I'm Gunjeev Singh a Full stack developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy gaming, and am a cricket enthusiast. 
