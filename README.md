@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh)
 <br />
 
-Hi, I'm Gunjeev Singh a Full stack developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy gaming, and am a cricket enthusiast. 
+Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering and Technology. I am a Full stack (MERN stack) developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy gaming, and am a cricket enthusiast. 
 
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
