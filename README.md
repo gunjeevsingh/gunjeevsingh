@@ -23,7 +23,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
 - 🌱 I’m currently learning NodeJS, Python and exploring devops.
 - 🔭 I’m currently working on MERN stack projects
-- 👯 I’m looking to collaborate on Full stack projects
+- 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : gunjeev.arneja@gmail.com
 
