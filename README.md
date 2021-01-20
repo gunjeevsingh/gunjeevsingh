@@ -19,7 +19,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Personal Tech Updates**
 
 - 🌱 I’m currently learning NodeJS, Python and exploring devops.
 - 🔭 I’m currently working on MERN stack projects
