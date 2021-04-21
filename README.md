@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh)
 <br />
 
-Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering and Technology. I am a Full stack (MERN stack) developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I enjoy gaming, and am a Manchester United Fan. 
+Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering and Technology. I am a Full stack (MERN stack) developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I mostly just sleep, and am a Manchester United Fan. 
 
   <img align="right"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
