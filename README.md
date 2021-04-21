@@ -21,7 +21,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
   
 **Personal Tech Updates**
 
-- 🌱 I’m currently learning NodeJS, Python and exploring devops.
+- 🌱 I’m currently learning NodeJS, Python and Flutter.
 - 🔭 I’m currently working on MERN stack projects
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about anything, I am happy to help;
