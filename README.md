@@ -42,6 +42,8 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ![gunjeev's github stats](https://github-readme-stats.vercel.app/api?username=gunjeevsingh&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -51,7 +53,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
   <img width="500" height="300" alt="Gunjeev's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=gunjeevsingh&theme=black-ice"/>
-
+</br>
   
   <img width="1500" height="auto"  alt="Gunjeev's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=gunjeevsingh&row=1&column=7&theme=darkhub&margin-w=15e" />
