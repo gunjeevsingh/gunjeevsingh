@@ -53,7 +53,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 <div align=center>
   <img alt="Gunjeev's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=gunjeevsingh&theme=black-ice"/></div>
-<img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
+<img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true"></a>
 
 <br>
   
