@@ -1,6 +1,6 @@
 
 
-### Hey 👋🏽, I'm gunjeevsingh
+### Hey 👋🏽, I'm Gunjeev :)
 
 <br/>
 <a href="https://www.linkedin.com/in/gunjeevsingh/">
