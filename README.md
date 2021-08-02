@@ -47,14 +47,11 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
 ![gunjeev's github stats](https://github-readme-stats.vercel.app/api?username=gunjeevsingh&show_icons=true&theme=tokyonight&count_private=true)
 
-<img alt="Taranpreet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
+<img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
  
 <img src = "(https://github-readme-stats.vercel.app/api?username=gunjeevsingh&count_private=true&show_icons=true&theme=radical)">
 
 
-  <img width="500" height="300" alt="Gunjeev's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=gunjeevsingh&theme=black-ice"/>
-</br>
   
   <img width="1500" height="auto"  alt="Gunjeev's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=gunjeevsingh&row=1&column=7&theme=darkhub&margin-w=15e" />
