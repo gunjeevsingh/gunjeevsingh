@@ -50,10 +50,12 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 <div align=center>
 <h2>Github Contributions</h2></div>
 <img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
-<center><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunjeevsingh&show_icons=true&theme=tokyonight&count_private=true"></center>
-<img src = "(https://github-readme-stats.vercel.app/api?username=gunjeevsingh&count_private=true&show_icons=true&theme=radical)">
+<div align=center>
+  <img alt="Gunjeev's github stats" 
+          src = "https://github-readme-streak-stats.herokuapp.com/?user=gunjeevsingh&theme=black-ice"/></div>
 
 
+<br>
   
   <img width="1500" height="auto"  alt="Gunjeev's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=gunjeevsingh&row=1&column=7&theme=darkhub&margin-w=15e" />
