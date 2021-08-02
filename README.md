@@ -45,10 +45,10 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-![gunjeev's github stats](https://github-readme-stats.vercel.app/api?username=gunjeevsingh&show_icons=true&theme=tokyonight&count_private=true)
+
 
 <img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
- 
+ ![gunjeev's github stats](https://github-readme-stats.vercel.app/api?username=gunjeevsingh&show_icons=true&theme=tokyonight&count_private=true)
 <img src = "(https://github-readme-stats.vercel.app/api?username=gunjeevsingh&count_private=true&show_icons=true&theme=radical)">
 
 
