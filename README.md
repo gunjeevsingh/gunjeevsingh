@@ -50,6 +50,4 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
 <br>
   
-  <img width="1500" height="auto"  alt="Gunjeev's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=gunjeevsingh&row=1&column=7&theme=darkhub&margin-w=15e" />
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=gunjeevsingh&row=7&column=7&theme=darkhub&margin-w=15)]-->
+ 
