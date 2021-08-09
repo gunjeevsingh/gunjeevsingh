@@ -50,4 +50,12 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 
 <br>
   
- 
+ <hr>
+ <div align='center'>
+ <h2>Connect with me :<h2/>
+
+
+<a href="https://twitter.com/gunjeev_singh"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/gunjeevsingh/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/gunujeevsingh"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</div>
