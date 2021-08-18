@@ -17,7 +17,7 @@ Hi, I'm Gunjeev Singh, a freshman year at the Thapar Institute of Engineering an
 - 🌱 I’m currently learning Node js, Django, DRF and ML.
 - 🔭 I’m currently working on Full stack projects
 - 👯 I’m looking to collaborate on Full stack projects
-- 💬 Looking for guidance on blockchain, DAPP, and crypto.
+- 💬 Looking for guidance on IOT and DApp
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : gunjeev.arneja@gmail.com
 
