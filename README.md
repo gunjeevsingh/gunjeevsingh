@@ -14,7 +14,7 @@ Hi, I'm Gunjeev Singh, a sophomore year at the Thapar Institute of Engineering a
   
 **Personal Tech Updates**
 
-- 🌱 I’m currently learning Node js, Django, DRF and ML.
+- 🌱 I’m currently learning Data Structures, GO, DApp Development.
 - 🔭 I’m currently working on Full stack projects
 - 👯 I’m looking to collaborate on Full stack projects
 - 💬 Looking for guidance on IOT and DApp
@@ -46,10 +46,7 @@ Hi, I'm Gunjeev Singh, a sophomore year at the Thapar Institute of Engineering a
 <div align=center>
   <img alt="Gunjeev's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=gunjeevsingh&theme=black-ice"/></div>
-<img alt="Gunjeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gunjeevsingh&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true"></a>
 
-<br>
-  
  <hr>
  <div align='center'>
  <h2>Connect with me :<h2/>
