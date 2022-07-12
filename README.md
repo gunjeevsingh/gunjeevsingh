@@ -8,18 +8,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh)
 <br />
 
-Hi, I'm Gunjeev Singh, a sophomore year at the Thapar Institute of Engineering and Technology. I am a React-Redux developer. I am from India, currently, I'm a member 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) , and a core-member of [creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I mostly just sleep, and am a Manchester United Fan. 
+Hi, I'm Gunjeev Singh, a Pre-Final year at the Thapar Institute of Engineering and Technology. I am the General Secretary of [creative-computing-society](https://github.com/creative-computing-society), and a contributor to  [@ACM-Thapar](https://github.com/ACM-Thapar).
 
-  <img align="right"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
-**Personal Tech Updates**
-
-- 🌱 I’m currently learning Data Structures, GO, DApp Development.
-- 🔭 I’m currently working on Full stack projects
-- 👯 I’m looking to collaborate on Full stack projects
-- 💬 Looking for guidance on IOT and DApp
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Contact Me : gunjeev.arneja@gmail.com
 
 **Languages and Tools:**  
 
@@ -36,10 +26,7 @@ Hi, I'm Gunjeev Singh, a sophomore year at the Thapar Institute of Engineering a
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-
-<hr>
 <div align=center>
 <h2>Github Contributions</h2></div>
 
