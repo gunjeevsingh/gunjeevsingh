@@ -8,7 +8,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gunjeevsingh.gunjeevsingh)
 <br />
 
-Hi, I'm Gunjeev Singh, a Pre-Final year at the Thapar Institute of Engineering and Technology. I am the General Secretary of [creative-computing-society](https://github.com/creative-computing-society), and a contributor to  [@ACM-Thapar](https://github.com/ACM-Thapar).
+Hi, I'm Gunjeev Singh, a Software Engineer, Reliability Infrastructure at @Linkedin!. I work on building and maintaining the largest kafka infrastructure in the world!
+I was previously the General Secretary of [creative-computing-society](https://github.com/creative-computing-society), and a maintainer of [@ACM-Thapar](https://github.com/ACM-Thapar).
 
 
 **Languages and Tools:**  
